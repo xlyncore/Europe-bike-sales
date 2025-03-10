@@ -5,11 +5,11 @@
 Data visualization is essential for meaningful insights into sales performance.  
 This project explores sales data from a **European bike store** to uncover key trends and patterns.  
 
-📌 **Dataset Source:** [Download from Kaggle](#)  
+ **Dataset Source:** [Download from Kaggle](#)  
 
 ---
 
-## 1. Tools & Technologies Used 🛠️  
+## 1. Tools & Technologies Used
 This project utilizes the following tools for data analysis and visualization:  
 
 - **MS SQL Server** → For querying and processing data.  
@@ -40,7 +40,7 @@ Here are some key metrics extracted from the dataset:
 
 ## 4. Key Insights  
 ![image](https://github.com/user-attachments/assets/8ee47bdf-0359-418a-9c2d-d0cd104e48ad)
-### 🔹Sales Analysis by Country
+### Sales Analysis by Country
 🇺🇸 **United States**: 39K orders
 🇦🇺 **Australia**: 24K orders
 🇨🇦 **Canada**: 14K orders
@@ -48,19 +48,19 @@ Here are some key metrics extracted from the dataset:
 🇩🇪 **Germany**: 11K orders
 
 ![image](https://github.com/user-attachments/assets/968bd0b2-1bd6-4b69-9027-df0a1c959425)
-### 🔹Sales Analysis by Age Group
+### Sales Analysis by Age Group
 **Adults (35-64 years)**: 56K (49.39%)
 **Young Adults (25-34 years)**: 39K (34.2%)
 **Youth (<25 years)**: 18K (15.77%)
 **Seniors (64+ years)**: 1K (0.65%)
 
 ![image](https://github.com/user-attachments/assets/19d61ee7-a113-470a-98fd-f1ff8aaa1c37)
-### 🔹Sales Analysis by Gender
+### Sales Analysis by Gender
 **Male Customers**: 65K (57.5%)
 **Female Customers**: 48K (42.5%)
 
 ![image](https://github.com/user-attachments/assets/ec97da0f-a03b-4bb9-863d-4308d37d6d9f)
-### 🔹 Top 5 Best-Selling Products by Revenue  
+###  Top 5 Best-Selling Products by Revenue  
 1. **Road-150 (Red)** – Generates the highest revenue.  
 2. **Mountain-490**  
 3. **Touring-30**  
@@ -68,7 +68,7 @@ Here are some key metrics extracted from the dataset:
 5. **Water Bottle - 30 oz**  
 
 ![image](https://github.com/user-attachments/assets/9ff6ae5a-0d2c-477b-a8a7-072c0b7edb0e)
-### 🔹 Top 5 Best-Selling Products by Quantity Sold  
+###  Top 5 Best-Selling Products by Quantity Sold  
 1. **Water Bottle - 30 oz** – Highest quantity sold.  
 2. **Sport-100**  
 3. **Mountain-490**  
@@ -76,7 +76,7 @@ Here are some key metrics extracted from the dataset:
 5. **Road-150 (Red)**  
 
 ![image](https://github.com/user-attachments/assets/a6d45c98-fd6c-4c02-9fb2-2b138e78b854)
-### 🔹 Top 5 Best-Selling Products by Total Orders  
+###  Top 5 Best-Selling Products by Total Orders  
 1. **Water Bottle - 30 oz** – Highest total orders.  
 2. **Sport-100**  
 3. **Mountain-490**  
