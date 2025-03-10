@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/0b51ba3c-ca9a-4aae-a7d9-716de8b59a9c)
 #  European Bike Store Sales Analysis
 
 ##  Background  
