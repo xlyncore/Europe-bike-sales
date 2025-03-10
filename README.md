@@ -24,9 +24,10 @@ The dataset consists of **18 columns** and **113,036 rows**.
 
 ---
 
-## 3. SQL Analysis  
+## 3. SQL Analysis and Power BI Visualization
 Here are some key metrics extracted from the dataset:  
 ![image](https://github.com/user-attachments/assets/e8104d3d-5e16-4c3c-be14-117e1781c078)
+![image](https://github.com/user-attachments/assets/c8e42fb3-e8d6-4b3d-a6b4-1bf2167e1eef)
 
 - **Average Order Value:** $754  
 - **Total Revenue:** $85,271,008  
@@ -38,8 +39,17 @@ Here are some key metrics extracted from the dataset:
 
 ---
 
-## 4. Key Insights  
+## 4. Key Insights 
+![image](https://github.com/user-attachments/assets/c3b11e92-f43a-43aa-8dfe-a45a78814498)
+- **Monthly Sales Trends**
+Sales tend to peak in May, June, and December, with June (11.2K orders) and December (11.2K orders) being the busiest months.
+The slowest month for orders is July (7.5K orders), suggesting a seasonal dip during mid-year.
+- **Yearly Sales Trends**
+Sales experienced a significant increase from 2012 to 2014, growing from 3K orders in 2012 to 29K orders in 2014.
+A slight decline in 2015 (24K orders) before rebounding to 29K orders in 2016.
+
 ![image](https://github.com/user-attachments/assets/8ee47bdf-0359-418a-9c2d-d0cd104e48ad)
+![image](https://github.com/user-attachments/assets/38cf2097-d9ee-4a8e-9216-03c4e6ff1a7e)
 ### Sales Analysis by Country
 - 🇺🇸 **United States**: 39K orders
 - 🇦🇺 **Australia**: 24K orders
@@ -48,18 +58,15 @@ Here are some key metrics extracted from the dataset:
 - 🇩🇪 **Germany**: 11K orders
 
 ![image](https://github.com/user-attachments/assets/968bd0b2-1bd6-4b69-9027-df0a1c959425)
+![image](https://github.com/user-attachments/assets/56536b11-1cd5-4588-8859-958f581bcd9a)
 ### Sales Analysis by Age Group
 - **Adults (35-64 years)**: 56K (49.39%)
 - **Young Adults (25-34 years)**: 39K (34.2%)
 - **Youth (<25 years)**: 18K (15.77%)
 - **Seniors (64+ years)**: 1K (0.65%)
 
-![image](https://github.com/user-attachments/assets/19d61ee7-a113-470a-98fd-f1ff8aaa1c37)
-### Sales Analysis by Gender
-- **Male Customers**: 65K (57.5%)
-- **Female Customers**: 48K (42.5%)
-
 ![image](https://github.com/user-attachments/assets/ec97da0f-a03b-4bb9-863d-4308d37d6d9f)
+![image](https://github.com/user-attachments/assets/7ba8a7fa-2801-49ec-a917-686898d4728d)
 ###  Top 5 Best-Selling Products by Revenue  
 1. **Road-150 (Red)** – Generates the highest revenue.  
 2. **Mountain-490**  
@@ -68,6 +75,7 @@ Here are some key metrics extracted from the dataset:
 5. **Water Bottle - 30 oz**  
 
 ![image](https://github.com/user-attachments/assets/9ff6ae5a-0d2c-477b-a8a7-072c0b7edb0e)
+![image](https://github.com/user-attachments/assets/00d97a54-2356-4a79-812f-6cfd7d986471)
 ###  Top 5 Best-Selling Products by Quantity Sold  
 1. **Water Bottle - 30 oz** – Highest quantity sold.  
 2. **Sport-100**  
@@ -76,6 +84,7 @@ Here are some key metrics extracted from the dataset:
 5. **Road-150 (Red)**  
 
 ![image](https://github.com/user-attachments/assets/a6d45c98-fd6c-4c02-9fb2-2b138e78b854)
+![image](https://github.com/user-attachments/assets/bf01b9b9-e2ee-49ec-af11-d28b4f46356c)
 ###  Top 5 Best-Selling Products by Total Orders  
 1. **Water Bottle - 30 oz** – Highest total orders.  
 2. **Sport-100**  
@@ -83,6 +92,18 @@ Here are some key metrics extracted from the dataset:
 4. **Touring-30**  
 5. **Road-150 (Red)**  
 
+![image](https://github.com/user-attachments/assets/1dc41f03-4a55-4247-8c6c-f0a17c6f3dcb)
+
+![image](https://github.com/user-attachments/assets/ea3c76b7-ede3-4e80-8689-a80e6615b977)
+
+![image](https://github.com/user-attachments/assets/c2c9dcf8-e962-48e2-89eb-d400caf150a7)
+
+
+Additional
+![image](https://github.com/user-attachments/assets/19d61ee7-a113-470a-98fd-f1ff8aaa1c37)
+### Sales Analysis by Gender
+- **Male Customers**: 65K (57.5%)
+- **Female Customers**: 48K (42.5%)
 ----
 
 ## 5. Conclusion 🏁  
