@@ -27,7 +27,7 @@ The dataset consists of **18 columns** and **113,036 rows**.
 
 ###  **Key Sales Metrics**  
 ![Metrics 1](https://github.com/user-attachments/assets/c8e42fb3-e8d6-4b3d-a6b4-1bf2167e1eef)  
-![Metrics 2](https://github.com/user-attachments/assets/e8104d3d-5e16-4b3d-a6b4-1bf2167e1eef)  
+![image](https://github.com/user-attachments/assets/6989ee4a-beb2-4171-b658-7fbaec5dd3ea)
   
 - The **total revenue** generated is **$85.27M**, indicating a high-value market.  
 - Each order has an **average value of $754**, showing that customers tend to purchase high-end products.  
@@ -39,6 +39,7 @@ The dataset consists of **18 columns** and **113,036 rows**.
 ## 4️ Key Insights  
 
 ###  **Monthly & Yearly Trends**  
+![image](https://github.com/user-attachments/assets/ee8bd229-63b7-463d-8e91-2891f6a6b31e)
 ![Monthly Trend](https://github.com/user-attachments/assets/73ce4d28-be32-4969-b7db-654344b82e7b)  
 ![Yearly Trend](https://github.com/user-attachments/assets/4be8a17a-5f3e-4ad8-9cb7-12a63ca6139d)  
 
