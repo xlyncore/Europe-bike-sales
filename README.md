@@ -27,86 +27,92 @@ The dataset consists of **18 columns** and **113,036 rows**.
 
 ###  **Key Sales Metrics**  
 ![Metrics 1](https://github.com/user-attachments/assets/c8e42fb3-e8d6-4b3d-a6b4-1bf2167e1eef)  
-![image](https://github.com/user-attachments/assets/deef7717-145d-4335-b2b0-7e21d57369a3)
-
--  **Total Revenue:** $85,271,008  
--  **Total Orders:** 113,036  
--  **Average Order Value:** $754  
--  **Total Accessories Sold:** 1,054,162  
--  **Total Bikes Sold:** 36,411  
--  **Total Clothing Sold:** 254,743  
--  **Average Products per Order:** 11.9  
+![Metrics 2](https://github.com/user-attachments/assets/e8104d3d-5e16-4b3d-a6b4-1bf2167e1eef)  
+  
+- The **total revenue** generated is **$85.27M**, indicating a high-value market.  
+- Each order has an **average value of $754**, showing that customers tend to purchase high-end products.  
+- **Accessories** are the most sold items, followed by **clothing** and **bikes**.  
+- On average, each order contains **11.9 products**, meaning customers tend to buy multiple items in one transaction.  
 
 ---
 
-## 4 Key Insights  
+## 4️ Key Insights  
 
-### **Monthly & Yearly Trends**  
-![image](https://github.com/user-attachments/assets/48eedb8a-53b0-4791-8b44-980a927ff0f1)
-![Monthly Trend](https://github.com/user-attachments/assets/73ce4d28-be32-4969-b7db-654344b82e7b)  ![Yearly Trend](https://github.com/user-attachments/assets/4be8a17a-5f3e-4ad8-9cb7-12a63ca6139d)  
+###  **Monthly & Yearly Trends**  
+![Monthly Trend](https://github.com/user-attachments/assets/73ce4d28-be32-4969-b7db-654344b82e7b)  
+![Yearly Trend](https://github.com/user-attachments/assets/4be8a17a-5f3e-4ad8-9cb7-12a63ca6139d)  
 
-#### **Monthly Sales Trends**  
-- 📈 **Highest Sales**: May, June, and December  
-- 🔥 **Peak Months**: **June (11.2K orders)** and **December (11.2K orders)**  
-- 📉 **Slowest Month**: **July (7.5K orders)**  
-
-#### **Yearly Sales Trends**  
--  Sales grew **significantly** from **3K orders in 2012** to **29K orders in 2014**.  
--  A slight decline occurred in **2015 (24K orders)** before rebounding to **29K orders in 2016**.  
+- **Sales peak** in **May, June, and December**, with **June and December reaching 11.2K orders**.  
+- The **slowest month is July (7.5K orders)**, suggesting a seasonal dip in sales.  
+- **Significant growth from 2012 to 2014**, but sales dropped slightly in 2015 before recovering in 2016.  
 
 ---
 
-### **Sales Analysis by Country**  
+###  **Sales Analysis by Country**  
 ![Country Sales](https://github.com/user-attachments/assets/38cf2097-d9ee-4a8e-9216-03c4e6ff1a7e)  
-![Country Sales 2](https://github.com/user-attachments/assets/8ee47bdf-0359-418a-9c2d-d0cd104e48ad)  
+
+- 🇺🇸 **United States dominates the sales market** with **39K orders**, making it the biggest consumer base.  
+- 🇦🇺 **Australia follows with 24K orders**, indicating a strong international market.  
+- 🇨🇦, 🇬🇧, 🇩🇪 **Canada, UK, and Germany** contribute moderate sales but have potential for growth.  
 
 ---
 
-### **Sales Analysis by Age Group**  
+###  **Sales Analysis by Age Group**  
 ![Age Group Sales](https://github.com/user-attachments/assets/56536b11-1cd5-4588-8859-958f581bcd9a)  
-![Age Group Sales 2](https://github.com/user-attachments/assets/968bd0b2-1bd6-4b69-9027-df0a1c959425)  
+
+- **Adults (35-64 years) make up 49.39% of total sales**, making them the **primary target market**.  
+- **Young Adults (25-34 years) contribute 34.2%**, indicating a strong secondary market.  
+- **Youth (<25 years) and Seniors (64+) have the lowest sales**, meaning marketing efforts should focus less on these demographics.  
 
 ---
 
-### **Top 5 Best-Selling Products**  
+###  **Top 5 Best-Selling Products**  
 
 #### **By Revenue**  
 ![Top Revenue](https://github.com/user-attachments/assets/7ba8a7fa-2801-49ec-a917-686898d4728d)  
-![Top Revenue 2](https://github.com/user-attachments/assets/ec97da0f-a03b-4bb9-863d-4308d37d6d9f)  
+  
+- **Road-150 (Red)** generates the **highest revenue**, proving that premium bikes are in high demand.  
+- **Mountain-490 and Touring-30** are also strong contributors to overall revenue.  
 
 #### **By Quantity Sold**  
 ![Top Quantity](https://github.com/user-attachments/assets/00d97a54-2356-4a79-812f-6cfd7d986471)  
-![Top Quantity 2](https://github.com/user-attachments/assets/9ff6ae5a-0d2c-477b-a8a7-072c0b7edb0e)  
+
+- **Water Bottle - 30 oz** is the **highest-selling product**, suggesting strong demand for accessories.  
+- **Sport-100 and Mountain-490** also rank high in total quantity sold.  
 
 #### **By Total Orders**  
 ![Top Orders](https://github.com/user-attachments/assets/bf01b9b9-e2ee-49ec-af11-d28b4f46356c)  
-![Top Orders 2](https://github.com/user-attachments/assets/a6d45c98-fd6c-4c02-9fb2-2b138e78b854)  
+
+- **Water Bottle - 30 oz** is **the most frequently ordered item**, indicating recurring purchases and strong customer demand.  
 
 ---
 
-### **Least Saleable Products**  
+###  **Least Saleable Products**  
 
 #### **By Revenue**  
 ![Lowest Revenue](https://github.com/user-attachments/assets/ea3c76b7-ede3-4e80-8689-a80e6615b977)  
 
+- **Mountain bikes** have the **lowest revenue performance**, possibly due to higher competition or lower consumer preference.  
+
 #### **By Quantity Sold**  
-![Lowest Quantity](https://github.com/user-attachments/assets/11713738-b048-4561-84bc-d3fc9aa022f8)  
+![Lowest Quantity](https://github.com/user-attachments/assets/11713738-b048-4561-84bc-d3fc9aa022f8) 
 
-#### **By Total Orders**  
-![Lowest Orders](https://github.com/user-attachments/assets/c2c9dcf8-e962-48e2-89eb-d400caf150a7)  
+- **Some bike models** are struggling with low sales, which may require **better marketing or discounts**.  
 
 ---
 
-### **Sales Analysis by Gender**  
+###  **Sales Analysis by Gender**  
 ![Gender Sales](https://github.com/user-attachments/assets/19d61ee7-a113-470a-98fd-f1ff8aaa1c37)  
-![Gender Sales 2](https://github.com/user-attachments/assets/1d4eb109-6ba1-4ad5-b1f4-0328c611c168)  
+
+- **Male customers dominate the market (57.5%)**, suggesting that most high-end bike purchases are made by men.  
+- **Female customers make up 42.5%**, showing a potential market to be further developed.  
 
 ---
 
-## 5 Conclusion  
-1️ **United States** has the highest number of orders, making it the most significant market.  
-2️ **Adults (35-64 years)** represent the largest customer segment, making them a key target for marketing.  
-3️ **Water Bottle - 30 oz** is the most frequently purchased product, indicating **high demand for accessories**.  
-4️ **Road-150 (Red)** generates the highest revenue, meaning **premium bikes contribute significantly** to sales.  
-5️ **Mountain-490 & Touring-30** consistently appear in the **top 5 across revenue, quantity sold, and orders**.  
-6️ **Mountain bikes have the lowest sales performance**, suggesting lower demand compared to road bikes.  
+##  5️ Conclusion  
+1️ **United States** is the country with the highest number of orders.  
+2️ **Adults (35-64 years)** are the dominant age group for purchases.  
+3️ **Water Bottle - 30 oz** is the most frequently purchased product.  
+4️ **Road-150 (Red)** generates the highest revenue, proving the demand for premium bikes.  
+5️ **Mountain bikes consistently rank low in sales**, meaning they may require different pricing strategies or marketing efforts.  
+
