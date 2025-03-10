@@ -41,23 +41,23 @@ Here are some key metrics extracted from the dataset:
 ## 4. Key Insights  
 ![image](https://github.com/user-attachments/assets/8ee47bdf-0359-418a-9c2d-d0cd104e48ad)
 ### Sales Analysis by Country
-🇺🇸 **United States**: 39K orders
-🇦🇺 **Australia**: 24K orders
-🇨🇦 **Canada**: 14K orders
-🇬🇧 **United Kingdom**: 14K orders
-🇩🇪 **Germany**: 11K orders
+- 🇺🇸 **United States**: 39K orders
+- 🇦🇺 **Australia**: 24K orders
+- 🇨🇦 **Canada**: 14K orders
+- 🇬🇧 **United Kingdom**: 14K orders
+- 🇩🇪 **Germany**: 11K orders
 
 ![image](https://github.com/user-attachments/assets/968bd0b2-1bd6-4b69-9027-df0a1c959425)
 ### Sales Analysis by Age Group
-**Adults (35-64 years)**: 56K (49.39%)
-**Young Adults (25-34 years)**: 39K (34.2%)
-**Youth (<25 years)**: 18K (15.77%)
-**Seniors (64+ years)**: 1K (0.65%)
+- **Adults (35-64 years)**: 56K (49.39%)
+- **Young Adults (25-34 years)**: 39K (34.2%)
+- **Youth (<25 years)**: 18K (15.77%)
+- **Seniors (64+ years)**: 1K (0.65%)
 
 ![image](https://github.com/user-attachments/assets/19d61ee7-a113-470a-98fd-f1ff8aaa1c37)
 ### Sales Analysis by Gender
-**Male Customers**: 65K (57.5%)
-**Female Customers**: 48K (42.5%)
+- **Male Customers**: 65K (57.5%)
+- **Female Customers**: 48K (42.5%)
 
 ![image](https://github.com/user-attachments/assets/ec97da0f-a03b-4bb9-863d-4308d37d6d9f)
 ###  Top 5 Best-Selling Products by Revenue  
