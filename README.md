@@ -27,7 +27,7 @@ The dataset consists of **18 columns** and **113,036 rows**.
 
 ###  **Key Sales Metrics**  
 ![Metrics 1](https://github.com/user-attachments/assets/c8e42fb3-e8d6-4b3d-a6b4-1bf2167e1eef)  
-![Metrics 2](https://github.com/user-attachments/assets/e8104d3d-5e16-4b3d-a6b4-1bf2167e1eef)  
+![image](https://github.com/user-attachments/assets/deef7717-145d-4335-b2b0-7e21d57369a3)
 
 -  **Total Revenue:** $85,271,008  
 -  **Total Orders:** 113,036  
@@ -43,8 +43,7 @@ The dataset consists of **18 columns** and **113,036 rows**.
 
 ### **Monthly & Yearly Trends**  
 ![image](https://github.com/user-attachments/assets/48eedb8a-53b0-4791-8b44-980a927ff0f1)
-![Monthly Trend](https://github.com/user-attachments/assets/73ce4d28-be32-4969-b7db-654344b82e7b)  
-![Yearly Trend](https://github.com/user-attachments/assets/4be8a17a-5f3e-4ad8-9cb7-12a63ca6139d)  
+![Monthly Trend](https://github.com/user-attachments/assets/73ce4d28-be32-4969-b7db-654344b82e7b)  ![Yearly Trend](https://github.com/user-attachments/assets/4be8a17a-5f3e-4ad8-9cb7-12a63ca6139d)  
 
 #### **Monthly Sales Trends**  
 - 📈 **Highest Sales**: May, June, and December  
