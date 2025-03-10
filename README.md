@@ -42,6 +42,7 @@ The dataset consists of **18 columns** and **113,036 rows**.
 ## 4 Key Insights  
 
 ### **Monthly & Yearly Trends**  
+![image](https://github.com/user-attachments/assets/48eedb8a-53b0-4791-8b44-980a927ff0f1)
 ![Monthly Trend](https://github.com/user-attachments/assets/73ce4d28-be32-4969-b7db-654344b82e7b)  
 ![Yearly Trend](https://github.com/user-attachments/assets/4be8a17a-5f3e-4ad8-9cb7-12a63ca6139d)  
 
@@ -104,9 +105,9 @@ The dataset consists of **18 columns** and **113,036 rows**.
 ---
 
 ## 5 Conclusion  
-1️⃣ **United States** has the highest number of orders, making it the most significant market.  
-2️⃣ **Adults (35-64 years)** represent the largest customer segment, making them a key target for marketing.  
-3️⃣ **Water Bottle - 30 oz** is the most frequently purchased product, indicating **high demand for accessories**.  
-4️⃣ **Road-150 (Red)** generates the highest revenue, meaning **premium bikes contribute significantly** to sales.  
-5️⃣ **Mountain-490 & Touring-30** consistently appear in the **top 5 across revenue, quantity sold, and orders**.  
-6️⃣ **Mountain bikes have the lowest sales performance**, suggesting lower demand compared to road bikes.  
+1️ **United States** has the highest number of orders, making it the most significant market.  
+2️ **Adults (35-64 years)** represent the largest customer segment, making them a key target for marketing.  
+3️ **Water Bottle - 30 oz** is the most frequently purchased product, indicating **high demand for accessories**.  
+4️ **Road-150 (Red)** generates the highest revenue, meaning **premium bikes contribute significantly** to sales.  
+5️ **Mountain-490 & Touring-30** consistently appear in the **top 5 across revenue, quantity sold, and orders**.  
+6️ **Mountain bikes have the lowest sales performance**, suggesting lower demand compared to road bikes.  
