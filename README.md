@@ -41,10 +41,10 @@ Here are some key metrics extracted from the dataset:
 
 ## 4. Key Insights 
 ![image](https://github.com/user-attachments/assets/c3b11e92-f43a-43aa-8dfe-a45a78814498)
-- **Monthly Sales Trends**
+-### **Monthly Sales Trends**
 Sales tend to peak in May, June, and December, with June (11.2K orders) and December (11.2K orders) being the busiest months.
 The slowest month for orders is July (7.5K orders), suggesting a seasonal dip during mid-year.
-- **Yearly Sales Trends**
+-### **Yearly Sales Trends**
 Sales experienced a significant increase from 2012 to 2014, growing from 3K orders in 2012 to 29K orders in 2014.
 A slight decline in 2015 (24K orders) before rebounding to 29K orders in 2016.
 
