@@ -47,8 +47,6 @@ Here are some key metrics extracted from the dataset:
 🇬🇧 **United Kingdom**: 14K orders
 🇩🇪 **Germany**: 11K orders
 
----
-
 ![image](https://github.com/user-attachments/assets/968bd0b2-1bd6-4b69-9027-df0a1c959425)
 ### 🔹Sales Analysis by Age Group
 **Adults (35-64 years)**: 56K (49.39%)
@@ -61,7 +59,6 @@ Here are some key metrics extracted from the dataset:
 **Male Customers**: 65K (57.5%)
 **Female Customers**: 48K (42.5%)
 
----
 ![image](https://github.com/user-attachments/assets/ec97da0f-a03b-4bb9-863d-4308d37d6d9f)
 ### 🔹 Top 5 Best-Selling Products by Revenue  
 1. **Road-150 (Red)** – Generates the highest revenue.  
