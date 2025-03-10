@@ -22,26 +22,24 @@ GROUP BY DATENAME(WEEKDAY, date), DATEPART(WEEKDAY, date)
 ORDER BY DATEPART(WEEKDAY, date);
 
 
----Monthly Trend For Total Orders---
-WITH MonthlyRevenue AS (
-    SELECT 
-        Year, 
-        DATENAME(MONTH, date) AS order_month, 
-        MONTH(date) AS month_number,
-        SUM(Revenue) AS total_revenue,
-        SUM(SUM(Revenue)) OVER (PARTITION BY Year) AS yearly_total
-    FROM bike_sales
-    GROUP BY Year, DATENAME(MONTH, date), MONTH(date)
-)
+---Monthly/Yearly Trend For Total Orders---
 SELECT 
-    Year, 
-    order_month, 
-    month_number,
-    total_revenue,
-    yearly_total,
-    ROUND((total_revenue * 100.0 / yearly_total), 2) AS percentage_of_year
-FROM MonthlyRevenue
-ORDER BY Year, month_number;
+    MONTH(Date) AS order_month,
+    FORMAT(Date, 'MMMM') AS month_name,
+    COUNT(Date) AS total_orders
+FROM bike_sales
+WHERE YEAR(Date) BETWEEN 2011 AND 2016
+GROUP BY MONTH(Date), FORMAT(Date, 'MMMM')
+ORDER BY order_month;
+
+SELECT 
+    YEAR(Date) AS order_year,
+    COUNT(Date) AS total_orders
+FROM bike_sales
+WHERE YEAR(Date) BETWEEN 2011 AND 2016
+GROUP BY YEAR(Date)
+ORDER BY order_year;
+
 
 
 ---% of Sales by Product Category---
@@ -237,14 +235,11 @@ ORDER BY Rank;
 ---By Age and Gender---
 SELECT 
     Age_Group,
-    Customer_Gender,
-    Product_Category,
-    Product,
-    COUNT(*) AS Total_Orders,
-    SUM(Order_Quantity) AS Total_Quantity
+    COUNT(*) AS Total_Orders
 FROM bike_sales
-GROUP BY Age_Group, Customer_Gender, Product_Category, Product
+GROUP BY Age_Group
 ORDER BY Total_Orders DESC;
+
 
 
 ---By Country and State---
