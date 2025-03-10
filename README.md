@@ -24,10 +24,10 @@ The dataset consists of **18 columns** and **113,036 rows**.
 
 ---
 
-## 3. SQL Analysis and Power BI Visualization
+## 3. Power BI Visualization and SQL Analysis
 Here are some key metrics extracted from the dataset:  
-![image](https://github.com/user-attachments/assets/e8104d3d-5e16-4c3c-be14-117e1781c078)
 ![image](https://github.com/user-attachments/assets/c8e42fb3-e8d6-4b3d-a6b4-1bf2167e1eef)
+![image](https://github.com/user-attachments/assets/e8104d3d-5e16-4c3c-be14-117e1781c078)
 
 - **Average Order Value:** $754  
 - **Total Revenue:** $85,271,008  
@@ -40,19 +40,19 @@ Here are some key metrics extracted from the dataset:
 ---
 
 ## 4. Key Insights 
-![Sales Trends](https://github.com/user-attachments/assets/c3b11e92-f43a-43aa-8dfe-a45a78814498)  
+![Sales Trends](https://github.com/user-attachments/assets/c3b11e92-f43a-43aa-8dfe-a45a78814498)
+![image](https://github.com/user-attachments/assets/4be8a17a-5f3e-4ad8-9cb7-12a63ca6139d)
 
-### 📊 Monthly Sales Trends  
+### Monthly Sales Trends  
 - Sales peak in **May, June, and December**, with **June (11.2K orders)** and **December (11.2K orders)** being the busiest months.  
 - The **slowest month** is **July (7.5K orders)**, indicating a mid-year seasonal dip.  
 
-### 📈 Yearly Sales Trends  
+### Yearly Sales Trends  
 - Sales grew **significantly** from **3K orders in 2012** to **29K orders in 2014**.  
 - A slight dip occurred in **2015 (24K orders)** before rebounding to **29K orders in 2016**.  
 
-
-![image](https://github.com/user-attachments/assets/8ee47bdf-0359-418a-9c2d-d0cd104e48ad)
 ![image](https://github.com/user-attachments/assets/38cf2097-d9ee-4a8e-9216-03c4e6ff1a7e)
+![image](https://github.com/user-attachments/assets/8ee47bdf-0359-418a-9c2d-d0cd104e48ad)
 ### Sales Analysis by Country
 - 🇺🇸 **United States**: 39K orders
 - 🇦🇺 **Australia**: 24K orders
@@ -60,16 +60,16 @@ Here are some key metrics extracted from the dataset:
 - 🇬🇧 **United Kingdom**: 14K orders
 - 🇩🇪 **Germany**: 11K orders
 
-![image](https://github.com/user-attachments/assets/968bd0b2-1bd6-4b69-9027-df0a1c959425)
 ![image](https://github.com/user-attachments/assets/56536b11-1cd5-4588-8859-958f581bcd9a)
+![image](https://github.com/user-attachments/assets/968bd0b2-1bd6-4b69-9027-df0a1c959425)
 ### Sales Analysis by Age Group
 - **Adults (35-64 years)**: 56K (49.39%)
 - **Young Adults (25-34 years)**: 39K (34.2%)
 - **Youth (<25 years)**: 18K (15.77%)
 - **Seniors (64+ years)**: 1K (0.65%)
 
-![image](https://github.com/user-attachments/assets/ec97da0f-a03b-4bb9-863d-4308d37d6d9f)
 ![image](https://github.com/user-attachments/assets/7ba8a7fa-2801-49ec-a917-686898d4728d)
+![image](https://github.com/user-attachments/assets/ec97da0f-a03b-4bb9-863d-4308d37d6d9f)
 ###  Top 5 Best-Selling Products by Revenue  
 1. **Road-150 (Red)** – Generates the highest revenue.  
 2. **Mountain-490**  
@@ -77,8 +77,8 @@ Here are some key metrics extracted from the dataset:
 4. **Sport-100**  
 5. **Water Bottle - 30 oz**  
 
-![image](https://github.com/user-attachments/assets/9ff6ae5a-0d2c-477b-a8a7-072c0b7edb0e)
 ![image](https://github.com/user-attachments/assets/00d97a54-2356-4a79-812f-6cfd7d986471)
+![image](https://github.com/user-attachments/assets/9ff6ae5a-0d2c-477b-a8a7-072c0b7edb0e)
 ###  Top 5 Best-Selling Products by Quantity Sold  
 1. **Water Bottle - 30 oz** – Highest quantity sold.  
 2. **Sport-100**  
@@ -86,8 +86,8 @@ Here are some key metrics extracted from the dataset:
 4. **Touring-30**  
 5. **Road-150 (Red)**  
 
-![image](https://github.com/user-attachments/assets/a6d45c98-fd6c-4c02-9fb2-2b138e78b854)
 ![image](https://github.com/user-attachments/assets/bf01b9b9-e2ee-49ec-af11-d28b4f46356c)
+![image](https://github.com/user-attachments/assets/a6d45c98-fd6c-4c02-9fb2-2b138e78b854)
 ###  Top 5 Best-Selling Products by Total Orders  
 1. **Water Bottle - 30 oz** – Highest total orders.  
 2. **Sport-100**  
@@ -110,9 +110,9 @@ Additional
 ----
 
 ## 5. Conclusion 🏁  
-**United States** is the country that places the most orders
-**Adults (35-64 years)** can be the target age for models of each product.
-**Water Bottle - 30 oz** is the most frequently purchased product, indicating **high demand for accessories**.  
-**Road-150 (Red)** is the highest revenue-generating product, meaning **premium bikes contribute significantly** to total revenue.  
-**Mountain-490** and **Touring-30** consistently rank in the **top 5** across revenue, quantity sold, and total orders.  
-**Mountain bikes had the lowest sales quantity and total orders**, which may indicate **lower demand compared to road bikes**.  
+- **United States** is the country that places the most orders
+- **Adults (35-64 years)** can be the target age for models of each product.
+- **Water Bottle - 30 oz** is the most frequently purchased product, indicating **high demand for accessories**.  
+- **Road-150 (Red)** is the highest revenue-generating product, meaning **premium bikes contribute significantly** to total revenue.  
+- **Mountain-490** and **Touring-30** consistently rank in the **top 5** across revenue, quantity sold, and total orders.  
+- **Mountain bikes had the lowest sales quantity and total orders**, which may indicate **lower demand compared to road bikes**.  
